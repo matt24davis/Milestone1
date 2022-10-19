@@ -1,0 +1,39 @@
+
+
+.fullpage{
+    background-color: #B2B4B2;
+}
+
+.headline {
+    background-color: #B2B4B2;
+    text-align: center;
+    
+}
+
+ul {
+    list-style-type: lower-alpha;
+    margin: 0;
+    padding: 0;
+    overflow:scroll;
+    background-color:#FFC629;
+    top: 0;
+    width: 100%;
+  }
+  
+  li {
+    display:inline-block;
+    border-right: 10px solid black;
+    border-left: 10px solid black;
+    display:inline-block;
+    border-radius: 50px;
+  }
+  
+  li a {
+    font-size: larger;
+    display: block;
+    color: black;
+    text-align: center;
+   margin-left:25px;
+    padding: 14px 180px;
+    text-decoration: none;
+  }
